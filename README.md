@@ -1,24 +1,3 @@
 # app
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##This app makes you know how the weather is in any country. Just enter "city name" in the search bar and then click the "Find" button. If no result appears, you must re-verify the city name.
