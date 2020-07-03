@@ -4,7 +4,7 @@
 
 ###  After pull the project and before running it, You must install all packages that the project needs.
   use -- npm install --
-### To runnig the project.  
+### To running the project.  
   use -- npm run serve --
 ### If you want to made some changes in the project you have to use "Prettier Formatter" because the project was initilized with it. If you use VSCODE or ATOM so you must to install the "Prettier" Extention in it.
 
