@@ -8,8 +8,15 @@
   use -- npm run serve --
 ### If you want to made some changes in the project you have to use "Prettier Formatter" because the project was initilized with it. If you use VSCODE or ATOM so you must to install the "Prettier" Extention in it.
 
-## weather application
+## Weather Application
 
 <img src = "images/weather-app.PNG" width="700">
+
+
+## Search
+
+<img src = "images/weather-app-search.PNG" width="700">
+
+<img src = "images/weather-app-search2.PNG" width="700">
 
   
