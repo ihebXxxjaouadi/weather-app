@@ -10,6 +10,6 @@
 
 ## weather application
 
-<img src = "images/search.PNG" width="400">
+<img src = "images/weather-app.PNG" width="500">
 
   
