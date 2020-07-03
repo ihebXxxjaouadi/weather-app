@@ -9,5 +9,6 @@
 ### If you want to made some changes in the project you have to use "Prettier Formatter" because the project was initilized with it. If you use VSCODE or ATOM so you must to install the "Prettier" Extention in it.
 
 ## weather application
+
 <img src="images/weather-app.PNG" width=500">
   
